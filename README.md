@@ -4,9 +4,9 @@ Congratulations on making it to the Behaviour Lab take-home task! We know these 
 
 Please fork this repository, and complete each task in it's own subfolder.
 
-Once you've finished, submit the project to `jobs@behaviourlab.com` and `yannis@behaviourlab.com`:
+Once you've finished, submit the project to `jobs@behaviourlab.com`, `yannis@behaviourlab.com`, `louis@behaviourlab.com`:
 
-Please make this repo private and invite `yp717` to the repository.
+Please make this repo private and invite `yp717` and `shanwun` to the repository.
 
 ## What are we testing?
 
